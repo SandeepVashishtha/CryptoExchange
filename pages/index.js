@@ -121,7 +121,7 @@ export default function HomePage() {
 
   return (
     <main className="container" style={styles.body}>
-      <header><h1>Welcome to the MetaCrafters Exchange !</h1></header>
+      <header><h1>Welcome to the CryptoExchange !</h1></header>
       {initUser()}
     </main>
   );
